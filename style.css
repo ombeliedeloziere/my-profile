@@ -1,0 +1,115 @@
+body{
+
+	background-color: rgb(202 213 236);
+	font-family: 'Great Vibes', cursive;
+	text-align: center;
+
+}
+
+h1,h2,h3{
+	font-family: 'Monoton', cursive;
+    color: rgb(243 196 176);
+    font-weight: 600;
+
+}
+h1{
+	font-size: 48px;
+}
+h2{
+	font-size: 24px;
+	font-weight: lighter;
+}
+p{
+	color: black;
+}
+a{
+	text-decoration: none;
+	color: rgb(243 196 176);
+	transition: color 0.3s ease;
+}
+a:hover{
+	color: rgb(202 213 236) ;
+}
+
+.contenant {
+	width : 700px;
+	margin: 40px auto;
+
+}
+
+
+.img-cercle{
+    width: 60%;
+    border-radius: 25%;
+}
+.bouton{
+	background-color: rgb(243 196 176);
+	color: black;
+	padding: 10px 10px;
+	position: relative;top: 10px;
+	border-radius: 4px;
+}
+
+.bouton:hover{
+	background-color: rgb(202 213 236);
+	color: white;
+}
+
+.card-design {
+	padding: 40px;
+	background-color: rgb(252 241 212);
+	box-shadow: 0px 10px 20px rgba(243 196 176 0.5);
+	border-radius: 4px;
+	border: 2px solid rgb(243 196 176);
+	margin: 15px;
+	}
+
+.list-enligne{
+	list-style: none;
+}
+
+
+
+ 
+i{
+	font-size: 40px;
+	text-align: center;
+	position: relative;
+	left: -20px;
+}
+
+.list-enligne li {
+	display: inline;
+	padding: 10px;
+	margin: 10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
